@@ -1,13 +1,7 @@
 ![me](https://github.com/adreaskar/images/blob/master/me.jpg)
 
-<style>
-  .stats {
-    float:right;
-  }
-</style>
+![stats](https://github-readme-stats.vercel.app/api?username=adreaskar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-<div class = "stats"> ![stats](https://github-readme-stats.vercel.app/api?username=adreaskar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) </div>
-<!--
 **adreaskar/adreaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
