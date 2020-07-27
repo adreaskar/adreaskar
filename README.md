@@ -1,4 +1,4 @@
-![me](https://github.com/adreaskar/adreaskar/blob/master/resources/1.jpg?raw)
+![me](https://github.com/adreaskar/adreaskar/blob/master/resources/1.jpg?raw=true)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=adreaskar&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
 
