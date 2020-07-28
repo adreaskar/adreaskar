@@ -9,13 +9,9 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning **Web Development** { 
-
-        Node.js,
-
-        Django / Flask,
-
-        React.js
-        
+        - Node.js,
+        - Django / Flask,
+        - React.js
     }
 
 <!--
