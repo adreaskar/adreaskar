@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
   - React.js
 
-}
+  }
 
 <!--
 - 🔭 I’m currently working on ...
