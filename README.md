@@ -2,6 +2,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=adreaskar&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
 
+<img align="left" src = " https://github-readme-stats.vercel.app/api/top-langs/?username=adreaskar&theme=buefy&layout=compact&title_color=FFFEFE&bg_color=151515&text_color=FFFEFE">
+
 <!--
 **adreaskar/adreaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
