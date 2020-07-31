@@ -8,6 +8,13 @@
 
 </a>
 
+<a href="https://github.com/adreaskar/Custom-browser-CSS-scripts">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=adreaskar&repo=Custom-browser-CSS-scripts&theme=dracula" />
+</a>
+<a href="https://github.com/adreaskar/MovieFlix2020-gr">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=adreaskar&repo=MovieFlix2020-gr&theme=dracula" />
+</a>
+
 <!--
 **adreaskar/adreaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
