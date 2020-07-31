@@ -10,10 +10,10 @@
 
 
 <a href="https://github.com/adreaskar/Custom-browser-CSS-scripts">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=adreaskar&repo=Custom-browser-CSS-scripts&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=adreaskar&repo=Custom-browser-CSS-scripts&theme=dracula" />
 </a>
 <a href="https://github.com/adreaskar/MovieFlix2020-gr">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=adreaskar&repo=MovieFlix2020-gr&theme=dracula" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=adreaskar&repo=MovieFlix2020-gr&theme=dracula" />
 </a>
 
 <!--
