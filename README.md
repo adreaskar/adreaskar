@@ -2,9 +2,9 @@
 
 <a href="https://github.com/adreaskar">
 
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=adreaskar&&show_icons=true&title_color=ffdc40&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=adreaskar&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
 
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adreaskar&theme=buefy&layout=compact&title_color=ffdc40&bg_color=151515&text_color=FFFEFE">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adreaskar&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
 
 </a>
 
@@ -12,6 +12,7 @@
 <a href="https://github.com/adreaskar/Custom-browser-CSS-scripts">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=adreaskar&repo=Custom-browser-CSS-scripts&theme=dracula" />
 </a>
+
 <a href="https://github.com/adreaskar/MovieFlix2020-gr">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=adreaskar&repo=MovieFlix2020-gr&theme=dracula" />
 </a>
