@@ -3,11 +3,9 @@
 ![me](https://github.com/adreaskar/adreaskar/blob/master/resources/1.jpg?raw=true)
 
 <a href="https://github.com/adreaskar">
-
   <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=adreaskar&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adreaskar&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
-
 </a>
 
 <!--
@@ -25,6 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/andreas-karabetian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andreas-karabetian" height="30" width="30" /></a>
