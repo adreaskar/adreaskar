@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adreaskar" alt="adreaskar" /> </p>
+
 ![me](https://github.com/adreaskar/adreaskar/blob/master/resources/1.jpg?raw=true)
 
 <a href="https://github.com/adreaskar">
@@ -24,10 +26,8 @@ Here are some ideas to get you started:
 
 -->
 
-<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=adreaskar" alt="adreaskar" /> </p>
-
 <p align="center">
-  <a href="https://twitter.com/adreaskar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adreaskar" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/andreas-karabetian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andreas-karabetian" height="30" width="30" /></a>
   <a href="https://www.facebook.com/adreas.karabetian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="adreas.karabetian" height="30" width="30" /></a>
+  <a href="https://twitter.com/adreaskar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adreaskar" height="30" width="30" /></a>
 </p>
