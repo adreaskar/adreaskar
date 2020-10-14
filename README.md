@@ -34,5 +34,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/andreas-karabetian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andreas-karabetian" height="30" width="30" /></a>
   <a href="https://www.facebook.com/adreas.karabetian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="adreas.karabetian" height="30" width="30" /></a>
   <a href="https://twitter.com/adreaskar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adreaskar" height="30" width="30" /></a>
-  <a href="https://mega.nz/file/cEBERRRQ#wCEPLzF06kJFSdIVx0aodi6lERacY4I_MMDOK3oO2R8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" alt="adreaskar" height="30" width="30" /></a>
+  <!-- <a href="https://mega.nz/file/cEBERRRQ#wCEPLzF06kJFSdIVx0aodi6lERacY4I_MMDOK3oO2R8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" alt="adreaskar" height="30" width="30" /></a> -->
 </p>
