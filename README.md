@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adreaskar" alt="adreaskar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adreaskar&color=ffdc40" alt="adreaskar" /> </p>
 
 ![me](https://github.com/adreaskar/adreaskar/blob/master/resources/1.jpg?raw=true)
 
