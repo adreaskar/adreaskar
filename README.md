@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adreaskar&color=yellow" alt="adreaskar" /> </p>
 
 [![Linkedin: Andreas Karabetian](https://img.shields.io/badge/-Andreas_Karabetian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreas-karabetian/)](https://www.linkedin.com/in/andreas-karabetian/) <img src="https://komarev.com/ghpvc/?username=adreaskar&color=yellow" alt="adreaskar" />
  
