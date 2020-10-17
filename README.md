@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adreaskar&color=yellow" alt="adreaskar" /> </p>
 
-![me](https://github.com/adreaskar/adreaskar/blob/master/resources/1.jpg?raw=true)
+![me](https://github.com/adreaskar/adreaskar/blob/master/resources/1.jpg?raw=true) [![Linkedin: Andreas Karabetian](https://img.shields.io/badge/-AndreasKarabetian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreas-karabetian/)](https://www.linkedin.com/in/andreas-karabetian/)
 
 <a href="https://github.com/adreaskar">
   <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=adreaskar&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
