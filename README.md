@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adreaskar&color=yellow" alt="adreaskar" /> </p>
 
-[![Linkedin: Andreas Karabetian](https://img.shields.io/badge/-Andreas_Karabetian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreas-karabetian/)](https://www.linkedin.com/in/andreas-karabetian/) ![counter](https://eng64hrnquaxti9.m.pipedream.net)
-
+[![Linkedin: Andreas Karabetian](https://img.shields.io/badge/-Andreas_Karabetian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreas-karabetian/)](https://www.linkedin.com/in/andreas-karabetian/) <p align="left"> <img src="https://komarev.com/ghpvc/?username=adreaskar&color=yellow" alt="adreaskar" /> </p>
+ 
 
 ![me](https://github.com/adreaskar/adreaskar/blob/master/resources/1.jpg?raw=true)
 
