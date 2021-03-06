@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andreas-karabetian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andreas-karabetian" height="30" width="30" style="filter: invert(89%) sepia(91%) saturate(776%) hue-rotate(322deg) brightness(104%) contrast(104%);" /></a>
+  <a href="https://www.linkedin.com/in/andreas-karabetian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andreas-karabetian" height="30" width="30" /></a>
   <a href="https://www.facebook.com/adreas.karabetian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="adreas.karabetian" height="30" width="30" /></a>
   <a href="https://twitter.com/adreaskar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adreaskar" height="30" width="30" /></a>
   <!-- <a href="https://mega.nz/file/gR4D0aTL#6pGE_j2RlNpFiLDK2r0-Ff1UvtfCBx2OAKHZbsF8rsM" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" alt="adreaskar" height="30" width="30" /></a> -->
