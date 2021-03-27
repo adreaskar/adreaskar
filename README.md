@@ -14,9 +14,9 @@
 
 <br>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/adreaskar/covid19-world-api">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adreaskar&repo=covid19-world-api&title_color=ffdc40&bg_color=0D1117&hide_border=true" alt="covid19-world-api">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adreaskar&repo=covid19-world-api&title_color=ffdc40&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="covid19-world-api">
  </a>
   <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=0D1117&hide_border=true" alt="LaTeX-Gboard-Dictionary">
