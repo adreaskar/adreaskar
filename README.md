@@ -14,9 +14,20 @@
 
 <br>
 
-<a href="https://github.com/adreaskar">
- <img alt="adreaskar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adreaskar&bg_color=0D1117&color=FFFFFF&line=ffdc40&point=FFFFFF&hide_border=true" />
-</a>
+<p align="left">
+  <a href="https://github.com/adreaskar/covid19-world-api">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adreaskar1&repo=covid19-world-api&bg_color=0D1117&hide_border=true" alt="covid19-world-api">
+ </a>
+  <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=0D1117&hide_border=true" alt="LaTeX-Gboard-Dictionary">
+ </a>
+  <a href="https://github.com/DenverCoder1/github-readme-youtube-stats">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-youtube-stats">
+ </a>
+  <a href="https://github.com/DenverCoder1/weather-app-tutorial">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=weather-app-tutorial&theme=react&bg_color=0D1117&hide_border=true" alt="weather-app-tutorial">
+ </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andreas-karabetian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andreas-karabetian" height="30" width="30" /></a>
