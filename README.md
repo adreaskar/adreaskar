@@ -17,7 +17,7 @@
 <br>
 
 <a href="https://github.com/adreaskar">
- <img alt="adreaskar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adreaskar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+ <img alt="adreaskar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adreaskar&bg_color=0D1117&color=5BCDEC&line=ffdc40&point=FFFFFF&hide_border=true" />
 </a>
 
 <p align="center">
