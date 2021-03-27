@@ -10,12 +10,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adreaskar&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
 </a>
 
-<br>
-
-<br>
-
-<br>
-
 <a href="https://github.com/adreaskar">
  <img alt="adreaskar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adreaskar&bg_color=0D1117&color=FFFFFF&line=ffdc40&point=FFFFFF&hide_border=true" />
 </a>
