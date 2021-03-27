@@ -15,18 +15,6 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/adreaskar/covid19-world-api">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adreaskar&repo=covid19-world-api&title_color=ffdc40&text_color=FFFFFF&icon_color=ffdc40&bg_color=0D1117" alt="covid19-world-api">
- </a>
-  <a href="https://github.com/adreaskar/Custom-browser-CSS-scripts">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adreaskar&repo=Custom-browser-CSS-scripts&title_color=ffdc40&text_color=FFFFFF&icon_color=ffdc40&bg_color=0D1117" alt="Custom-browser-CSS-scripts">
- </a>
-  <a href="https://github.com/adreaskar/MovieFlix2020-gr">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adreaskar&repo=MovieFlix2020-gr&title_color=ffdc40&text_color=FFFFFF&icon_color=ffdc40&bg_color=0D1117" alt="MovieFlix2020-gr">
- </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/andreas-karabetian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andreas-karabetian" height="30" width="30" /></a>
   <a href="https://www.facebook.com/adreas.karabetian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="adreas.karabetian" height="30" width="30" /></a>
   <a href="https://twitter.com/adreaskar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adreaskar" height="30" width="30" /></a>
