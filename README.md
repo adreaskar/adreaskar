@@ -21,6 +21,8 @@
 <p align="center">
   <a href="https://twitter.com/adreaskar"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://ko-fi.com/adreaskar"><img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/andreas-karabetian"><img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Andreas_Karabetian-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+</p>
 
 <!-- <p align="center">
   <a href="https://www.linkedin.com/in/andreas-karabetian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andreas-karabetian" height="30" width="30" /></a>
