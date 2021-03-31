@@ -4,6 +4,10 @@
 
 ![me](https://github.com/adreaskar/adreaskar/blob/master/resources/1.jpg?raw=true)
 
+<p align="center">
+  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Web%20development;Interested%20in%20UI%2FUX;Always%20learning%20new%20things&center=true&width=380&height=50">
+</p>
+
 <a href="https://github.com/adreaskar">
   <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=adreaskar&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
 
