@@ -7,11 +7,12 @@
   <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Web%20development%2Fdesign;Interested%20in%20UI%2FUX;Always%20learning%20new%20things&center=true&width=380&height=50&color=ffdc40">
 </p>
 
+<p>
 <a href="https://github.com/adreaskar">
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=adreaskar&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
-
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adreaskar&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adreaskar&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adreaskar&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
 </a>
+</p>
 
 <br>
 
