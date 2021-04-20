@@ -6,9 +6,10 @@
 <!--<p align="center">
   <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Web%20development%2Fdesign;Interested%20in%20UI%2FUX;Always%20learning%20new%20things&center=true&width=380&height=50&color=ffdc40">
 </p>-->
-
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+development%2Fdesign;Interested+in+UI%2FUX;Always+learning+new+things&center=true&width=380&height=50&color=ffdc40)](https://git.io/typing-svg)
-
+<p>
+ 
 <p>
 <a href="https://github.com/adreaskar">
   <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adreaskar&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
