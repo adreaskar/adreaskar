@@ -7,7 +7,7 @@
   <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Web%20development%2Fdesign;Interested%20in%20UI%2FUX;Always%20learning%20new%20things&center=true&width=380&height=50&color=ffdc40">
 </p>-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+development;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+development%2Fdesign;Second+line+of+text)](https://git.io/typing-svg)
 
 <p>
 <a href="https://github.com/adreaskar">
