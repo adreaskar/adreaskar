@@ -4,10 +4,10 @@
 ![me](https://github.com/adreaskar/adreaskar/blob/master/resources/2.jpg?raw=true)
 
  
-<p>
+<p float="left">
 <a href="https://github.com/adreaskar">
  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adreaskar&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
- <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=adreaskar&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adreaskar&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
 </a>
 </p>
 
