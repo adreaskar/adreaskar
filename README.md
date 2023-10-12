@@ -6,8 +6,8 @@
 <!-- Stats -->
 <div align="center">
   <a href="https://github.com/adreaskar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adreaskar&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adreaskar&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE&hide=ejs,jupyter%20notebook" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adreaskar&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515&rank_icon=percentile" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adreaskar&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE&hide=ejs,jupyter%20notebook&langs_count=7" />
   </a>
 </div>
 
