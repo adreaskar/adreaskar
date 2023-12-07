@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=adreaskar&color=yellow&style=flat-square" alt="adreaskar" />
 
 <!-- Banner --> 
-![me](https://github.com/adreaskar/adreaskar/blob/master/resources/2.jpg?raw=true)
+![me](https://github.com/adreaskar/adreaskar/blob/master/resources/3.png?raw=true)
  
 <!-- Stats -->
 <div align="center">
