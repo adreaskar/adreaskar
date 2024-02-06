@@ -3,7 +3,7 @@
 <!-- Banner and daily.dev card --> 
 <div align="center" style="display:flex;flex-direction: row;">
 <img style="width: 60%" src="https://github.com/adreaskar/adreaskar/blob/master/resources/3.png?raw=true"/>
-<a href="https://app.daily.dev/adreaskar"><img src="https://api.daily.dev/devcards/3407dd0f72974c11b0ec92b83d11ecf5.png?r=60a" width="200" alt="Andreas Karabetian's Dev Card"/></a>
+<a href="https://app.daily.dev/adreaskar"><img src="https://github.com/adreaskar/adreaskar/blob/master/resources/devcard.svg" width="200" alt="Andreas Karabetian's Dev Card"/></a>
 <div>
  
 <!-- Stats -->
