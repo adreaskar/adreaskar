@@ -1,5 +1,8 @@
 name: DevCard
 
+permissions:
+    contents: write
+
 on:
   workflow_dispatch:
   push:
@@ -11,8 +14,6 @@ on:
 jobs:
   devcard:
     runs-on: ubuntu-latest
-    permissions:
-        contents: write
     steps:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
